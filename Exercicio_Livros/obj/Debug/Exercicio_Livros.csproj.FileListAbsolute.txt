@@ -1,0 +1,10 @@
+C:\Users\Cyber\Desktop\Programação\Visual Studio\Exercicio_Livros\Exercicio_Livros\bin\Debug\Exercicio_Livros.exe.config
+C:\Users\Cyber\Desktop\Programação\Visual Studio\Exercicio_Livros\Exercicio_Livros\bin\Debug\Exercicio_Livros.exe
+C:\Users\Cyber\Desktop\Programação\Visual Studio\Exercicio_Livros\Exercicio_Livros\bin\Debug\Exercicio_Livros.pdb
+C:\Users\Cyber\Desktop\Programação\Visual Studio\Exercicio_Livros\Exercicio_Livros\obj\Debug\Exercicio_Livros.csprojAssemblyReference.cache
+C:\Users\Cyber\Desktop\Programação\Visual Studio\Exercicio_Livros\Exercicio_Livros\obj\Debug\Exercicio_Livros.Form1.resources
+C:\Users\Cyber\Desktop\Programação\Visual Studio\Exercicio_Livros\Exercicio_Livros\obj\Debug\Exercicio_Livros.Properties.Resources.resources
+C:\Users\Cyber\Desktop\Programação\Visual Studio\Exercicio_Livros\Exercicio_Livros\obj\Debug\Exercicio_Livros.csproj.GenerateResource.cache
+C:\Users\Cyber\Desktop\Programação\Visual Studio\Exercicio_Livros\Exercicio_Livros\obj\Debug\Exercicio_Livros.csproj.CoreCompileInputs.cache
+C:\Users\Cyber\Desktop\Programação\Visual Studio\Exercicio_Livros\Exercicio_Livros\obj\Debug\Exercicio_Livros.exe
+C:\Users\Cyber\Desktop\Programação\Visual Studio\Exercicio_Livros\Exercicio_Livros\obj\Debug\Exercicio_Livros.pdb
